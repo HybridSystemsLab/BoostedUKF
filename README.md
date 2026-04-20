@@ -1,6 +1,4 @@
-# Weighted Flow Matching and Physics-Informed
-Nonlinear Filtering for Parameter Estimation in
-Digital Twins
+# Weighted Flow Matching and Physics-Informed Nonlinear Filtering for Parameter Estimation in Digital Twins
 
 This repository contains a sequential pipeline for learning sample weights, generating reliable inertia samples, and running multiple filtering approaches for spacecraft inertia estimation. The workflow is organized so that all scripts are executed in order through a single main file, while results and figures are saved separately for each stage. 
 
